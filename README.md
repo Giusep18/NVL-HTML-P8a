@@ -24,7 +24,7 @@
    </div>
    <div>
     <label for="Puntos negativos">Puntos negativos</label>
-    <textarea id="Puntos negativos</textarea>
+    <textarea id="Puntos negativos"</textarea>
    </div>
    <div>
     <ul>
